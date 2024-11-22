@@ -58,7 +58,7 @@ Win11 + DevEco Stuido
 打开应用，可以看到上面嵌入了百度带关键词搜索页。
 
 <div style="text-align: center;">
-  <img src="Baidu.png" alt="输入图片说明" width="600px" height="auto">
+  <img src="Baidu.png" alt="输入图片说明" width="300px" height="auto">
 </div>
 
 #### 约束与限制
