@@ -21,7 +21,7 @@ Win11 + DevEco Stuido
 ### 指定应用名称
 1.修改 `entry\src\main\resources\base\element\string.json` 文件中 `EntryAbility_label` 的 `value` 为 Baidu
 
-2.同时修改和 base 同级的 zh_CN、en_US 下的 string.json 文件中 `EntryAbility_label` 的 `value` 为 Baidu
+2.同时修改和 base 同级的 `zh_CN`、`en_US` 下的 `string.json` 文件中 `EntryAbility_label` 的 `value` 为 Baidu
 
 ```
 {
